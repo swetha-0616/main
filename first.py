@@ -23,7 +23,7 @@ for i in range(n):
     expenses.append(expense)
 
 # Create a DataFrame to store the data
-df = pd.DataFrame({
+df = pd.DataFrames({
     'Income': income,
     'Family Members': members,
     'Average Age': avg_age,
